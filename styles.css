@@ -1,0 +1,58 @@
+* {
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+
+.prenom {
+    color: #e551bc;
+    
+}
+
+header {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #51E57A;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #51E57A;
+}
+
+.couleurs {
+    color: #e551bc;
+    font-size: 4em;
+}
+
+
+.entete {
+    display: flex;
+    flex-direction: column;
+}
+
+.definition {
+    color:#e57a51;
+}
+
+strong {
+    font-size: 2em;
+}
+
+footer {
+    height: 20vh;
+    background-color: palevioletred;
+}
+
+h3 {
+    text-align: center;
+}
+
+.reseaux {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+}
